@@ -17,4 +17,4 @@ public class Inky{
 
         Inky ponky2 = new Inky(pinky,blinky,rinky);
     }
-}gi
+}
